@@ -16,7 +16,7 @@ var _ = require('lodash-node');
 var AllRoomMessages = [
     {
         regex: /satellite/gim,
-        text: " > GitHub is great, and Training Day is greater!!",
+        text: " > I am Sparticus",
     },
   
     {
@@ -26,6 +26,9 @@ var AllRoomMessages = [
     {
         regex: /fruit/gim,
         text: " > My favorites are apples and grapes.",
+    },    {
+        regex: /inspiral/gim,
+        text: " > There's a popular misconception that says we haven't seen anything yet",
     },
     {
         regex: /movie/gim,
