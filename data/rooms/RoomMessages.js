@@ -16,7 +16,7 @@ var _ = require('lodash-node');
 var AllRoomMessages = [
     {
         regex: /satellite/gim,
-        text: " > I am Sparticus",
+        text: " > I am Spartacus",
     },
   
     {
@@ -28,7 +28,7 @@ var AllRoomMessages = [
         text: " > My favorites are apples and grapes.",
     },    {
         regex: /inspiral/gim,
-        text: " > There's a popular misconception that says we haven't seen anything yet",
+        text: " > There's a popular misconception that says we haven't seen anything yet ![saturn5](https://www.nasa.gov/sites/default/files/thumbnails/image/ksc-69pc-442.jpg)",
     },
     {
         regex: /movie/gim,
